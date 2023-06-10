@@ -28,8 +28,11 @@ Identify IP address using ifconfig in Metasploitable2
 Use the above ip address to access the apache webserver of Metasploitable2 from kali linux. In Kali Linux use the ip address in a web browser.
 ![Screenshot 2023-06-10 213747](https://github.com/praveenst13/sqlinjection/assets/118787793/81aa3c6a-fd5d-4b8f-8656-b921cd05e1f4)
 Select Multidae from the menu listed as shown above. You will get the page as displayed below:
+
 ![Screenshot 2023-06-10 213925](https://github.com/praveenst13/sqlinjection/assets/118787793/65d72597-0297-485a-8c57-d335bf885ba6)
 Click on the menu Login/Register and register for an account
+![Screenshot 2023-06-10 233711](https://github.com/praveenst13/sqlinjection/assets/118787793/9eb39cba-a6e1-4927-b10a-933a75adfdce)
+
 ![Screenshot 2023-06-10 214003](https://github.com/praveenst13/sqlinjection/assets/118787793/dfe4513c-3c0d-43e0-b1e4-ad4baee43b98)
 
 Click on the link “Please register here”
