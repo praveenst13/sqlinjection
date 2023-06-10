@@ -95,7 +95,7 @@ http://192.168.43.145/mutillidae/index.php?page=user-info.php&username=praveen%2
 ![Screenshot 2023-06-10 224839](https://github.com/praveenst13/sqlinjection/assets/118787793/0eb340b9-63a6-433e-878b-45f3b396f1a2)
 
 After adding the order by 6 into the existing url , the following error statement will be obtained:
-
+![Screenshot 2023-06-10 224839](https://github.com/praveenst13/sqlinjection/assets/118787793/0eb340b9-63a6-433e-878b-45f3b396f1a2)
 
 ![Screenshot 2023-06-10 224928](https://github.com/praveenst13/sqlinjection/assets/118787793/86073e2f-937b-47a4-9b9d-c0c2863b2a7c)
 
